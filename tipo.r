@@ -1,4 +1,4 @@
-#calcular xd
+#calcular
 
 a <- 10
 b <- 50
